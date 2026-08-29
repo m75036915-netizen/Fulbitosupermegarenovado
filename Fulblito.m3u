@@ -24,10 +24,8 @@ http://stream.giostreaming.app/canal11/canal11.m3u8
 https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador",Taber TV
-http://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/chunklist_w789045814.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5s22CD4/channels4-profile.jpg" group-title="Canales de El Salvador",Taber TV Santa Ana
-http://183.bozztv.com/giatv/giatv-tabertv/tabertv/chunks.m3u8
+#EXTVLCOPT:http-user-agent=beyondtv.appkya/12.1 (Linux;Android 16) AndroidXMedia3/1.1.1
+http://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Prg844T7/images-(2).jpg" group-title="Canales de El Salvador",Iglesia El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
