@@ -56,6 +56,12 @@ https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2FPSmb2/LNWGe1D.jpg" group-title="Canales de El Salvador",Josué TV
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador",Elim TV
+http://stream.soporteccrtv.xyz/live/elimtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Prg844T7/images-(2).jpg" group-title="Canales de El Salvador",Iglesia El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
@@ -68,7 +74,7 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr2RvCHJ/images.jpg" group-title="Canales de El Salvador",Canal TVO Salgado
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf señal 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 1
 https://d395pc32ur2dpc.cloudfront.net/out/v1/97d5c45eb4b241db9400b97215ad5531/index_15.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 2
