@@ -1,0 +1,99 @@
+#EXTM3U tvg-aspect-ratio=fill aspect-ratio=match_parent
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD
+http://190.61.114.186:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox
+http://45.5.118.152:8000/play/a0dh/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox La TV
+http://190.61.101.11:7050/play/a0a9/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/3NkGymfx/sky-dice-adios-a-mexico-que-pasara-con-laliga-y-bundesliga.jpg" group-title="Fútbol", Sky Sports La Liga
+http://168.228.44.241:9998/play/a001/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo
+http://38.188.186.47:4000/play/a015/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN C.A
+http://168.228.44.241:9998/play/a069/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol",ESPN Deportes
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 2 (Servidor 1)
+https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/rs57DmcK/live.isml/live.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 2 (Servidor 2)
+http://45.167.2.101:8000/play/a0qp/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="Canales de El Salvador",Canal 4 (Servidor 1)
+http://186.33.26.18:8000/play/a0qq/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="Canales de El Salvador",Canal 4 (Servidor 2)
+http://190.61.101.11:7050/play/a06y/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 6 (Servidor 1)
+https://livecdn.euw1-0005.jwplive.com/live/sites/2TG5q0qV/media/ItQSct4R/live.isml/live.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 6 (Servidor 2)
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/j2Vr9L2N/images.png" group-title="Canales de El Salvador",Canal 9
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/c4SSBgPm/images-(1).png" group-title="Canales de El Salvador",Canal 10
+https://5ca3e84a76d30.streamlock.net/tves/videotves/chunklist_w388552546.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/SxQbw0SC/images-(2).png" group-title="Canales de El Salvador",Canal 11
+http://stream.giostreaming.app/canal11/canal11.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/YSZcGh1m/images-(3).png" group-title="Canales de El Salvador",Canal 12
+https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador",Taber TV
+#EXTVLCOPT:http-referrer=https://conceptoweb-studio.com/
+#EXTVLCOPT:http-origin=https://conceptoweb-studio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/Y2FPSmb2/LNWGe1D.jpg" group-title="Canales de El Salvador",Josué TV
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador",Elim TV
+http://stream.soporteccrtv.xyz/live/elimtv/index.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/Prg844T7/images-(2).jpg" group-title="Canales de El Salvador",Iglesia El Camino
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/63nP8z6W/r-Syu-DSmo-400x400.jpg" group-title="Canales de El Salvador",Canal 19
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/qqGZLR3f/images-(5).png" group-title="Canales de El Salvador",Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/Pr2RvCHJ/images.jpg" group-title="Canales de El Salvador",Canal TVO Salgado
+http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 1
+https://d395pc32ur2dpc.cloudfront.net/out/v1/97d5c45eb4b241db9400b97215ad5531/index_15.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 2
+https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index_14.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 3
+https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/index_20.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 4
+https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index_49.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 5
+https://d122jam70ur5t5.cloudfront.net/out/v1/d39698e1a0f44d44b972b263668e4818/index_1.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5N7sND5Q/1787870587674.jpg" group-title="Eventos",Sport gol eventos (Servidor 1)
+http://183.bozztv.com/ssh101/ssh101/sportcr1/playlist.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/5N7sND5Q/1787870587674.jpg" group-title="Eventos",Sport gol eventos (Servidor 2)
+http://160.bozztv.com/ssh101/ssh101/sportvkey01/playlist.m3u8
+
+#EXTINF:-1 aspect-ratio=match_parent tvg-aspect-ratio=fill tvg-logo="https://i.postimg.cc/MGR55Hk8/images-(1).jpg" group-title="Eventos",Live Futbol
+http://183.bozztv.com/giatv/giatv-tenTVC2/tenTVC2/chunks.m3u8
