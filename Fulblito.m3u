@@ -5,8 +5,14 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox La TV
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox La TV (Servidor 1)
 http://190.61.101.11:7050/play/a0a9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox La TV (servidor 2)
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox La TV (servidor 3)
+http://200.57.28.141:8540/play/a0k6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NkGymfx/sky-dice-adios-a-mexico-que-pasara-con-laliga-y-bundesliga.jpg" group-title="Fútbol", Sky Sports La Liga
 http://168.228.44.241:9998/play/a001/index.m3u8
