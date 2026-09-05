@@ -41,7 +41,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/2TG5q0qV/media/ItQSct4R/live.is
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 2)
 http://45.167.2.101:8000/play/a0qs/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Sky Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports
 http://168.228.44.241:9998/play/a001/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo
