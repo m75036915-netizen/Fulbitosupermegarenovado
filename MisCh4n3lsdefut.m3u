@@ -50,9 +50,6 @@ http://38.188.186.47:4000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol",ESPN Deportes UCL
 http://187.245.231.226:8000/play/a0tj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjxWP8ZH/images-(6).png" group-title="Fútbol",ESPN
-http://38.224.175.2:8000/play/a02d/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN CA
 http://168.228.44.241:9998/play/a069/index.m3u8
  
@@ -70,9 +67,6 @@ https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/ind
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 5
 https://d122jam70ur5t5.cloudfront.net/out/v1/d39698e1a0f44d44b972b263668e4818/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7xF6vnt/images-(7).png" group-title="Eventos",ESPN Eventos UCL
-https://m3u.tvcluboficial.com/free/ReachBot/Kip/Eventos3.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N7sND5Q/1787870587674.jpg" group-title="Eventos",Sport gol eventos (Servidor 1)
 http://183.bozztv.com/ssh101/ssh101/sportcr1/playlist.m3u8
@@ -80,5 +74,5 @@ http://183.bozztv.com/ssh101/ssh101/sportcr1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N7sND5Q/1787870587674.jpg" group-title="Eventos",Sport gol eventos (Servidor 2)
 http://160.bozztv.com/ssh101/ssh101/sportvkey01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N7sND5Q/1787870587674.jpg" group-title="Eventos",Sport gol eventos (Servidor 3)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N7sND5Q/1787870587674.jpg" group-title="Eventos",Sport gol eventos UCL (Servidor 3)
 https://lbgo.bozztv.com/ssh101/ssh101/sportcr1/playlist.m3u8
