@@ -46,7 +46,10 @@ http://168.228.44.241:9998/play/a001/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo
 http://38.188.186.47:4000/play/a015/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjxWP8ZH/images-(6).png" group-title="Fútbol", ESPN
+http://38.224.175.2:8000/play/a02d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol",ESPN Deportes UCL
 http://187.245.231.226:8000/play/a0tj/index.m3u8
 
