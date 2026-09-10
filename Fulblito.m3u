@@ -5,7 +5,7 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox SV (Servidor 2)
 http://168.196.127.137:6001/play/a0aw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox SV (servidor 3)
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox SV (Servidor 3)
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox BeyondTV 
