@@ -11,7 +11,7 @@ http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox BeyondTV 
 http://38.52.208.106:8000/play/a06u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox LaTV (Servidor 1)
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox LaTV HD (Servidor 1)
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox LaTV (Servidor 2)
