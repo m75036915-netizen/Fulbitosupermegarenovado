@@ -39,7 +39,7 @@ http://168.228.44.241:9998/play/a069/index.m3u8
 http://168.228.44.241:9999/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="Canales de El Salvador",Canal 4
-http://45.5.118.188:8000/play/a00j/index.m3u8
+http://168.228.44.241:9999/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 6
 http://168.228.44.241:9999/play/a044/index.m3u8
