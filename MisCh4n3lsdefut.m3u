@@ -45,7 +45,7 @@ http://168.228.44.241:9999/play/a043/index.m3u8
 http://190.61.101.11:7050/play/a06y/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 1)
-http://45.167.2.138:8000/play/a0qs/index.m3u8
+http://168.228.44.241:9999/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 2)
 http://45.167.2.101:8000/play/a0qs/index.m3u8
