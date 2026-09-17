@@ -33,7 +33,7 @@ http://45.167.2.138:8000/play/a0qp/index.m3u8
 http://186.33.26.18:8000/play/a0qq/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 2)
-http://45.167.2.138:8000/play/a0qq/index.m3u8
+http://186.33.27.9:8000/play/a00i/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 3)
 http://45.5.118.188:8000/play/a00j/index.m3u8
