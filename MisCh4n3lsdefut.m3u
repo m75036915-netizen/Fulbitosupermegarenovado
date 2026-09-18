@@ -36,10 +36,10 @@ http://186.33.26.18:8000/play/a0qq/index.m3u8
 http://186.33.27.9:8000/play/a00i/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 3)
-http://45.5.118.188:8000/play/a00j/index.m3u8
+http://168.228.44.241:9999/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 4)
-http://168.228.44.241:9999/play/a043/index.m3u8
+http://168.228.44.241:9998/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 5)
 http://190.61.101.11:7050/play/a06y/index.m3u8
