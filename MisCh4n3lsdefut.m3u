@@ -26,9 +26,6 @@ http://168.228.44.241:9999/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="TCS",Canal 2 (Servidor 2)
 http://45.167.2.101:8000/play/a0qp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="TCS",Canal 2 (Servidor 3)
-http://45.167.2.138:8000/play/a0qp/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 1)
 http://186.33.26.18:8000/play/a0qq/index.m3u8
  
@@ -49,9 +46,6 @@ http://168.228.44.241:9999/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 2)
 http://45.167.2.101:8000/play/a0qs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 3)
-http://45.167.2.138:8000/play/a0qs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga (Servidor 1)
 http://168.228.44.241:9998/play/a001/index.m3u8
