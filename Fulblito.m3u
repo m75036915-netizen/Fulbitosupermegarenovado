@@ -89,6 +89,9 @@ http://190.61.114.186:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="TCS",Canal 2 (Servidor 4)
 http://xui.ixtchel.site//live/rslamtv/dURqhHSswZ/217.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="TCS",Canal 2 (Servidor 5)
+http://190.61.101.11:7050/play/a06z/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 1)
 http://186.33.26.18:8000/play/a0qq/index.m3u8
  
