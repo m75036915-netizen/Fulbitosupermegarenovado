@@ -23,23 +23,35 @@ http://200.57.28.141:8540/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox LaTV (Servidor 3)
 http://190.61.101.11:7050/play/a0a9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga (Servidor 1)
-http://168.228.44.241:9998/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA HD (Servidor 1)
+http://187.245.231.226:8000/play/a0vf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga (Servidor 2)
-http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA HD (Servidor 2)
+http://190.61.101.11:7050/play/a0a9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga
+http://190.61.101.11:7050/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo
 http://38.188.186.47:4000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN  UCL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN HD UCL
 http://187.245.231.226:8000/play/a0tj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN 2 UCL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN  UCL
+http://187.245.231.226:8000/play/a0o6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN 2 HD UCL
 http://187.245.231.226:8000/play/a0tk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN 3 UCL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN 2 UCL
+http://187.245.231.226:8000/play/a0o7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN 3 HD UCL
 http://187.245.231.226:8000/play/a0tl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol", ESPN 3  UCL
+http://187.245.231.226:8000/play/a0pt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo internacional HD
 http://187.245.231.226:8000/play/a0md/index.m3u8
