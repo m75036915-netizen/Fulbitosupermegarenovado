@@ -23,6 +23,9 @@ http://200.57.28.141:8540/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox LaTV (Servidor 3)
 http://190.61.101.11:7050/play/a0a9/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD ESA
+http://190.61.114.186:8000/play/a04d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA
 http://187.245.231.226:8000/play/a0vf/index.m3u8
 
