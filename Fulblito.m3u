@@ -170,6 +170,9 @@ http://190.61.101.11:7050/play/a06y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 6)
 http://187.245.231.226:8000/play/a0sl/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 Sunset (Servidor 7)
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 1)
 http://186.33.26.18:8000/play/a0qs/index.m3u8
 
