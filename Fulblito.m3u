@@ -29,6 +29,9 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA
 http://187.245.231.226:8000/play/a0vf/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox Sunset 
+http://play.pelusa.online:8080/live/erckh/4apbH9Q7YnTW/247387.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kM1mSKNT/FB-IMG-1792166732321.jpg" group-title="FOX", Fox+
 http://gazytv.vip:8880//live/patricia2025cas/gkst7NBDxRRe08vz/2118659.m3u8
 
