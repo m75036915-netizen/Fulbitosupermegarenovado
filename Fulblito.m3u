@@ -122,8 +122,17 @@ http://38.224.231.176:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 6 HD Titan SA 
 http://38.224.231.176:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 7 HD Titan Sa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 7 HD Titan SA
 http://38.224.231.176:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN Titan CA
+http://38.224.231.176:8000/play/a0ci/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 2 Titan CA
+http://38.224.231.176:8000/play/a0cj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 3 Titan CA
+http://38.224.231.176:8000/play/a0br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo internacional HD
 http://187.245.231.226:8000/play/a0md/index.m3u8
@@ -156,7 +165,7 @@ https://d2h2wh04y3aqtb.cloudfront.net/hls/rury2ckyqgw9/3_4/index.m3u8
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador",Elim TV
-http://stream.soporteccrtv.xyz/live/elimtv/index.m3u8
+http://38.224.231.176:8000/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Prg844T7/images-(2).jpg" group-title="Canales de El Salvador",Iglesia El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
