@@ -230,7 +230,7 @@ http://play.pelusa.online:8080/live/erckh/4apbH9Q7YnTW/130758.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 AK (Servidor 8)
 http://ak-47scan.dyndns.tv:8080/live/JoseNa36/guAkvA2bHYvQ/587894.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 AK (Servidor 8)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 Titan (Servidor 9)
 http://38.224.231.176:8000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 1)
