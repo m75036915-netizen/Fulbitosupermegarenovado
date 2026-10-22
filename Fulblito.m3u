@@ -41,7 +41,7 @@ http://38.224.231.176:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox Titan (Servidor 3)
 http://38.224.231.176:8000/play/a0bv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox SLV (Servidor 1)
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD SLV (Servidor 1)
 http://167.249.23.102:8000/play/a0ib/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox SLV (Servidor 2)
