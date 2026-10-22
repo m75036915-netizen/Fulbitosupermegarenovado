@@ -146,11 +146,14 @@ http://167.249.23.102:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 3 HD CTRO
 http://167.249.23.102:8000/play/ESPN-3HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo internacional HD
-http://187.245.231.226:8000/play/a0md/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo 
+http://167.249.23.102:8000/play/a0ik/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo internacional 
-http://187.245.231.226:8000/play/a0lk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C16nDqbn/WA-1792688388562.jpg" group-title="Fútbol", Univisión 
+http://167.249.23.102:8000/play/a0ik/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4JzKbv/WA-1792688367555.jpg" group-title="Fútbol", Unimás 
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 2
 http://167.249.23.102:8000/play/Canal2-ESA/index.m3u8
