@@ -23,16 +23,13 @@ http://200.57.28.141:8540/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox LaTV (Servidor 3)
 http://190.61.101.11:7050/play/a0a9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD ESA (Servidor 1)
-http://190.61.114.186:8000/play/a04d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA (Servidor 2)
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA (Servidor 1)
 http://187.245.231.226:8000/play/a0vf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA (Servidor 3)
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA (Servidor 2)
 http://187.245.231.226:8000/play/a0v9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA (Servidor 4)
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox ESA (Servidor 3)
 http://187.245.231.226:8000/play/a0v8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD Titan (Servidor 1)
@@ -43,6 +40,12 @@ http://38.224.231.176:8000/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox Titan (Servidor 3)
 http://38.224.231.176:8000/play/a0bv/index.m3u8
+
+EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD 503 (Servidor 1)
+http://167.249.23.102:8000/play/a0ib/index.m3u8
+
+EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD 503 (Servidor 2)
+http://167.249.23.102:8000/play/a0ia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kM1mSKNT/FB-IMG-1792166732321.jpg" group-title="FOX", Fox+
 http://gazytv.vip:8880//live/patricia2025cas/gkst7NBDxRRe08vz/2118659.m3u8
@@ -134,14 +137,14 @@ http://38.224.231.176:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 3 Titan CA
 http://38.224.231.176:8000/play/a0br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN HD CTRA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN HD CTRO
+http://167.249.23.102:8000/play/ESPN-HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 2 HD CTRO
+http://167.249.23.102:8000/play/a0fp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 2 HD CTRA
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 3 HD CTRA 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 3 HD CTRO
+http://167.249.23.102:8000/play/ESPN-3HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo internacional HD
 http://187.245.231.226:8000/play/a0md/index.m3u8
