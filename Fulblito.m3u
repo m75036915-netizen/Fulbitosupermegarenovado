@@ -167,6 +167,24 @@ http://187.245.231.226:8000/play/a0um/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 6 HD UCL
 http://187.245.231.226:8000/play/a0tm/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN HD LaTV
+http://186.33.0.57:8000/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 2 HD LaTV
+http://186.33.0.57:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 3 HD LaTV
+http://186.33.0.57:8000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 4 HD LaTV
+http://186.33.0.57:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 5 HD LaTV
+http://186.33.0.57:8000/play/a05j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 6 HD LaTV
+http://186.33.0.57:8000/play/a05o/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo 
 http://167.249.23.102:8000/play/a0ik/index.m3u8
 
