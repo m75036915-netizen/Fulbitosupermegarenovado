@@ -56,7 +56,7 @@ http://38.188.186.47:4000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kM1mSKNT/FB-IMG-1792166732321.jpg" group-title="FOX", Fox+
 http://gazytv.vip:8880//live/patricia2025cas/gkst7NBDxRRe08vz/2118659.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga (Servidor 1)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga sk (Servidor 1)
 http://190.97.183.101:8000/play/a07l
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga (Servidor 2)
