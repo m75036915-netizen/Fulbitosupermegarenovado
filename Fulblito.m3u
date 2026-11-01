@@ -224,6 +224,9 @@ http://186.33.0.57:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo 
 http://167.249.23.102:8000/play/a0ik/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo Miami
+http://168.228.44.241:9997/play/a07c
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C16nDqbn/WA-1792688388562.jpg" group-title="Fútbol", Univisión 
 http://167.249.23.102:8000/play/a0i6/index.m3u8
 
