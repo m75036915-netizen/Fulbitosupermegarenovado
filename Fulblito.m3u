@@ -252,7 +252,7 @@ http://167.249.23.102:8000/play/a06z/index.m3u8
 http://stream.giostreaming.app/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSZcGh1m/images-(3).png" group-title="Canales de El Salvador",Canal 12
-https://d2h2wh04y3aqtb.cloudfront.net/hls/rury2ckyqgw9/3_4/index.m3u8
+http://181.78.61.202:8000/play/a00v
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador",Taber TV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
