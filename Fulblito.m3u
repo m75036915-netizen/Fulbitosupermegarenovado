@@ -242,9 +242,6 @@ http://167.249.23.102:8000/play/Canal4-ESA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 6
 http://167.249.23.102:8000/play/Canal6-ESA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Vr9L2N/images.png" group-title="Canales de El Salvador",Canal 9
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4SSBgPm/images-(1).png" group-title="Canales de El Salvador",Canal 10
 http://167.249.23.102:8000/play/a06z/index.m3u8
 
