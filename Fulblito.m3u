@@ -284,6 +284,18 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/mast
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Canales de El Salvador",ent drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:0 tvg-id="tcc-HBOXtreme.uy" tvg-name="tcc-HBOXtreme.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HBOXT.png" group-title="Canales de El Salvador",HBO XTREME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="Canales de El Salvador", PARAMOUNT+ - ACCIÓN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+
+#EXTINF:-1 tvg-id="tcc-SonyMovies.uy" tvg-name="SONY CINE" group-title="Canales de El Salvador" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="TCS",Canal 2 (Servidor 1)
 http://167.249.23.102:8000/play/Canal2-ESA/index.m3u8
 
