@@ -242,6 +242,9 @@ http://167.249.23.102:8000/play/Canal4-ESA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 6
 http://167.249.23.102:8000/play/Canal6-ESA/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Vr9L2N/images.png" group-title="Canales de El Salvador",Canal 9
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4SSBgPm/images-(1).png" group-title="Canales de El Salvador",Canal 10
 http://167.249.23.102:8000/play/a06z/index.m3u8
 
@@ -275,11 +278,11 @@ http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNtnWyWd/WA-1794009936477.jpg" group-title="Canales de El Salvador",Cine Premium 
 http://167.249.23.102:8000/play/Cine-PremiumHD/index.m3u8
 
-#EXTINF:-1 tvg-id="ent-extreme" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Canales de El Salvador", ENT EXTREME
+#EXTINF:-1 tvg-id="ent-extreme" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Canales de El Salvador",ENT EXTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ent-drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Canales de El Salvador", ENT DRAMA
+#EXTINF:-1 tvg-id="ent-drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Canales de El Salvador",ENT DRAMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 
