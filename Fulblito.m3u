@@ -233,63 +233,63 @@ http://167.249.23.102:8000/play/a0i6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4JzKbv/WA-1792688367555.jpg" group-title="Fútbol", Unimás 
 http://167.249.23.102:8000/play/a0i9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="Canales de El Salvador 🇸🇻",Canal 2
 http://167.249.23.102:8000/play/Canal2-ESA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="Canales de El Salvador",Canal 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="Canales de El Salvador 🇸🇻",Canal 4
 http://167.249.23.102:8000/play/Canal4-ESA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador",Canal 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="Canales de El Salvador 🇸🇻",Canal 6
 http://167.249.23.102:8000/play/Canal6-ESA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Vr9L2N/images.png" group-title="Canales de El Salvador",Canal 9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Vr9L2N/images.png" group-title="Canales de El Salvador 🇸🇻",Canal 9
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4SSBgPm/images-(1).png" group-title="Canales de El Salvador",Canal 10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4SSBgPm/images-(1).png" group-title="Canales de El Salvador 🇸🇻",Canal 10
 http://167.249.23.102:8000/play/a06z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxQbw0SC/images-(2).png" group-title="Canales de El Salvador",Canal 11
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxQbw0SC/images-(2).png" group-title="Canales de El Salvador 🇸🇻",Canal 11
 http://stream.giostreaming.app/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSZcGh1m/images-(3).png" group-title="Canales de El Salvador",Canal 12
-http://181.78.61.202:8000/play/a00v
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSZcGh1m/images-(3).png" group-title="Canales de El Salvador 🇸🇻",Canal 12
+http://167.249.23.102:8000/play/Canal12-ESA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador",Taber TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador 🇸🇻",Taber TV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador",Elim TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador 🇸🇻",Elim TV
 http://38.224.231.176:8000/play/a0b7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Prg844T7/images-(2).jpg" group-title="Canales de El Salvador",Iglesia El Camino
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Prg844T7/images-(2).jpg" group-title="Canales de El Salvador 🇸🇻",Iglesia El Camino
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63nP8z6W/r-Syu-DSmo-400x400.jpg" group-title="Canales de El Salvador",Canal 19
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63nP8z6W/r-Syu-DSmo-400x400.jpg" group-title="Canales de El Salvador 🇸🇻",Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqGZLR3f/images-(5).png" group-title="Canales de El Salvador",Canal 21
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqGZLR3f/images-(5).png" group-title="Canales de El Salvador 🇸🇻",Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr2RvCHJ/images.jpg" group-title="Canales de El Salvador",TVO Salgado
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr2RvCHJ/images.jpg" group-title="Canales de El Salvador 🇸🇻",TVO Salgado
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPfxqfMt/FB-IMG-1788970702393.jpg" group-title="Canales de El Salvador",TVM San Miguel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPfxqfMt/FB-IMG-1788970702393.jpg" group-title="Canales de El Salvador 🇸🇻",TVM San Miguel
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNtnWyWd/WA-1794009936477.jpg" group-title="Canales de El Salvador",Cine Premium 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNtnWyWd/WA-1794009936477.jpg" group-title="Canales de El Salvador 🇸🇻",Cine Premium 
 http://167.249.23.102:8000/play/Cine-PremiumHD/index.m3u8
 
-#EXTINF:-1 tvg-id="ent-extreme" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Canales de El Salvador",ENT EXTREME
+#EXTINF:-1 tvg-id="ent-extreme" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Canales de El Salvador 🇸🇻",ENT EXTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ent-drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Canales de El Salvador",ENT DRAMA
+#EXTINF:-1 tvg-id="ent-drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Canales de El Salvador 🇸🇻",ENT DRAMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:0 tvg-id="tcc-HBOXtreme.uy" tvg-name="tcc-HBOXtreme.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HBOXT.png" group-title="Canales de El Salvador",HBO XTREME
 http://167.249.23.102:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="Canales de El Salvador", PARAMOUNT+ - ACCIÓN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="Canales de El Salvador 🇸🇻", PARAMOUNT+ - ACCIÓN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 
@@ -297,10 +297,10 @@ https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cDqHJL7/WA-1794252198374.jpg" group-title="Canales de El Salvador",animal planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cDqHJL7/WA-1794252198374.jpg" group-title="Canales de El Salvador 🇸🇻",animal planet
 http://167.249.23.102:8000/play/a0gd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HSTRY.png" group-title="Canales de El Salvador", History chanel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HSTRY.png" group-title="Canales de El Salvador 🇸🇻", History chanel
 http://167.249.23.102:8000/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsHFKcm0/Canal-2-1080x1080-1.jpg" group-title="TCS",Canal 2 (Servidor 1)
