@@ -68,7 +68,7 @@ http://167.249.23.102:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo
 http://38.188.186.47:4000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-id="tcc-DSportsHD.uy" tvg-name="tcc-DSportsHD.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Fútbol",DSports (Servidor 1)
+#EXTINF:-1 tvg-id="tcc-DSportsHD.uy" tvg-name="tcc-DSportsHD.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Fútbol",DSports Mariozap (Servidor 1)
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
