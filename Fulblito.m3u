@@ -203,15 +203,8 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn5-mux/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 #EXTINF:-1 tvg-id="tcc-ESPN6.uy" tvg-name="ESPN 6" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Fútbol", ESPN 6 Uy Mariozap
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 como Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://38.210.3.64:8090/play/a0dj/index.m3u8?hls
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn6-mux/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
