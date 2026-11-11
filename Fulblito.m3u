@@ -210,6 +210,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn5-mux/playlist.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0dj/index.m3u8?hls
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn6-mux/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
