@@ -286,6 +286,14 @@ http://186.33.0.57:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 6 HD LaTV
 http://186.33.0.57:8000/play/a05o/index.m3u8
 
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="Fútbol", TYC SPORTS
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 como Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo 
 http://167.249.23.102:8000/play/a0ik/index.m3u8
 
