@@ -87,6 +87,13 @@ http://201.240.104.137:8000/play/dtv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports +
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes USA HD" tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol",ESPN Deportes USA HD
+#EXTHTTP:{"User-Agent":"VLC/3.0.20 LibVLC/3.0.20","Referer":"https://streamx723.sbs/","Origin":"https://streamx723.sbs"}
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/
+#EXTVLCOPT:http-origin=https://streamx723.sbs
+http://99.envivosenhd.beer/espndeportes/mono.m3u8?token=d904ded71fe400fcb9bf11b5a55301bc87f30d1f-51-1795073860-1795019860&ip=190.87.165.244
+
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes USA" tvg-logo="https://i.postimg.cc/ZK3cVzjm/i.png" group-title="Fútbol",ESPN Deportes USA
 #EXTHTTP:{"User-Agent":"VLC/3.0.20 LibVLC/3.0.20","Referer":"https://streamxhd.st/","Origin":"https://streamxhd.st"}
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
