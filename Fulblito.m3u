@@ -57,7 +57,7 @@ http://38.188.186.47:4000/play/a018/index.m3u8
 #EXTHTTP:{"User-Agent":"Sky+/11.5.1(18)_prd skymas ahh (Linux;Android 16) AndroidXMedia3/1.0.2","Origin":"http://localhost","X-Requested-With":"latv.aplicmya"}
 #EXTVLCOPT:http-user-agent=Sky+/11.5.1(18)_prd skymas ahh (Linux;Android 16) AndroidXMedia3/1.0.2
 #EXTVLCOPT:http-origin=http://localhost
-https://live1-ott.izzigo.tv/14/out/u/dash/FOX-ONE-PLUS-HD/default.mpd
+https://live1-ott.izzigo.tv/14/out/u/dash/FOX-ONE-PLUS-HD/default.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga sk (Servidor 1)
 http://190.97.183.101:8000/play/a07l
@@ -345,6 +345,9 @@ http://167.249.23.102:8000/play/Canal12-ESA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador 🇸🇻",Taber TV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JosueTV.sv" tvg-name="Josué TV" tvg-logo="https://i.postimg.cc/Y2FPSmb2/LNWGe1D.jpg" group-title="Canales de El Salvador 🇸🇻",Josué TV
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador 🇸🇻",Elim TV
 http://38.224.231.176:8000/play/a0b7/index.m3u8
