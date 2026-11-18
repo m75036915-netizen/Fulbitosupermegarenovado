@@ -409,7 +409,7 @@ http://38.224.231.176:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 (Servidor 2)
 http://167.249.23.102:8000/play/a070/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 chsv (Servidor 3)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 ax (Servidor 3)
 http://177.53.153.21:8000/play/a10x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 chsv (Servidor 4)
@@ -439,7 +439,7 @@ http://186.33.0.57:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 ax SD (Servidor 12)
 http://177.53.153.21:8000/play/a13p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 al (Servidor 13)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 al SD (Servidor 13)
 http://45.182.22.53:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 1)
@@ -456,6 +456,12 @@ http://187.245.231.226:8000/play/a0s1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 LaTV (Servidor 5)
 http://186.33.0.57:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 al (Servidor 6)
+http://45.182.22.53:8000/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 ab (Servidor 7)
+http://186.33.57.100:8000/play/a1x9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tF7rpC7/2018030821173166.png" group-title="Fútbol Concacaf",Concacaf go señal 1
 https://d395pc32ur2dpc.cloudfront.net/out/v1/97d5c45eb4b241db9400b97215ad5531/index_15.m3u8
