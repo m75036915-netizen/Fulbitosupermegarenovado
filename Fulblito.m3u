@@ -347,9 +347,6 @@ http://167.249.23.102:8000/play/Canal12-ESA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brfKgWVT/images-(4).png" group-title="Canales de El Salvador 🇸🇻",Taber TV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JosueTV.sv" tvg-name="Josué TV" tvg-logo="https://i.postimg.cc/Y2FPSmb2/LNWGe1D.jpg" group-title="Canales de El Salvador 🇸🇻",Josué TV
-https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN8mNVZV/Foto-Perfil-ELIM-TV.png" group-title="Canales de El Salvador 🇸🇻",Elim TV
 http://38.224.231.176:8000/play/a0b7/index.m3u8
 
