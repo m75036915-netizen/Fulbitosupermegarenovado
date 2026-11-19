@@ -116,6 +116,30 @@ http://167.249.23.102:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 5 HD CTRO
 http://167.249.23.102:8000/play/a0bi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN PREMIUM HD Ladin SUR
+http://38.7.195.44:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN HD Ladin SUR
+http://38.7.195.44:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 2 HD Ladin  SUR
+http://38.7.195.44:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 3 HD Ladin  SUR
+http://38.7.195.44:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 4 HD Ladin  SUR
+http://38.7.195.44:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 5 HD Ladin SUR
+http://38.7.195.44:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 6 HD Ladin SUR
+http://38.7.195.44:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 7 HD Ladin SUR
+http://38.7.195.44:8000/play/a014/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN PREMIUM HD SUR sk
 http://190.97.183.101:8000/play/a06n
 
