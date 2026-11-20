@@ -86,7 +86,10 @@ http://45.238.141.222:8000/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga (Servidor 6)
 http://167.249.23.102:8000/play/a0ie/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo (Servidor 1)
+http://38.188.186.47:4000/play/Ji198/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo (Servidor 2)
 http://38.188.186.47:4000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="tcc-DSportsHD.uy" tvg-name="tcc-DSportsHD.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Fútbol",DSports Mariozap (Servidor 1)
