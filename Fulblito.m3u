@@ -95,8 +95,8 @@ http://181.119.233.211:8000/play/a03k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga SD mega (Servidor 9)
 http://181.78.49.179:8000/play/deportes
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo (Servidor 1)
-http://38.188.186.47:4000/play/Ji198/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo mega (Servidor 1)
+http://45.192.3.47:8000/play/a0j7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo (Servidor 2)
 http://38.188.186.47:4000/play/a015/index.m3u8
