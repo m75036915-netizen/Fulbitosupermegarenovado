@@ -8,6 +8,21 @@ http://186.3.191.218:8000/play/a12r
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 2)
 http://177.53.153.21:8000/play/a199/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 3)
+http://201.190.34.254:8001/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 4)
+http://38.129.17.34:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 5)
+http://38.129.17.34:8000/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 6)
+http://190.97.183.101:8028/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 7)
+http://152.200.195.188:8000/play/a023/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD Titan (Servidor 1)
 http://38.224.231.176:8000/play/a0ao/index.m3u8
 
