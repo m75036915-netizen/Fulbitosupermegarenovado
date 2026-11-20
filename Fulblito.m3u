@@ -481,10 +481,10 @@ http://181.119.233.211:8000/play/a00g
 http://186.3.191.218:8000/play/a0zj
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 mega (Servidor 3)
-http://38.129.17.34:8000/play/a05q/index.m3u8
+http://201.190.34.254:8001/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 mega (Servidor 4)
-http://201.190.34.254:8001/play/a011/index.m3u8
+http://38.129.17.34:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 mega (Servidor 5)
 http://190.97.183.101:8028/play/a084/index.m3u8
