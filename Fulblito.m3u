@@ -90,7 +90,7 @@ http://45.238.141.222:8000/play/a0p3/index.m3u8
 http://167.249.23.102:8000/play/a0ie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15HWTvNp/sky-Sports.jpg" group-title="Fútbol", Sky Sports La Liga SD mega (Servidor 8)
-http://181.78.49.179:8000/play/SKYMX
+http://181.78.49.179:8000/play/deportes
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo (Servidor 1)
 http://38.188.186.47:4000/play/Ji198/index.m3u8
