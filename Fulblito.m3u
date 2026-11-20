@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 1)
 http://186.3.191.218:8000/play/a12b
 
+#EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD mega (Servidor 2)
+http://177.53.153.21:8000/play/a199/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://photos.webwire.com/prmedia/8/356268/356268-1.jpg?2026819182956" group-title="FOX", Fox HD Titan (Servidor 1)
 http://38.224.231.176:8000/play/a0ao/index.m3u8
 
