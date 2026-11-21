@@ -129,15 +129,6 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8#EXTVLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports mega
-http://179.63.6.216:8000/play/a01b
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports 2 mega
-http://179.63.6.216:8000/play/a01a
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports+ mega
-http://179.63.6.216:8000/play/a01c
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports
 http://181.66.249.246:8000/play/a0km/index.m3u8
 
@@ -146,6 +137,12 @@ http://201.240.104.137:8000/play/dtv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports +
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports mega
+http://179.63.6.216:8000/play/a01b
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports+ mega
+http://179.63.6.216:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN HD mega CA
 http://181.78.49.179:8000/play/a07o
