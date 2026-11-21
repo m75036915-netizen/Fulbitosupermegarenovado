@@ -122,14 +122,23 @@ http://45.192.3.47:8000/play/a0j7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0T7XbsC/53581-750.jpg" group-title="Fútbol", Vix Premium Tigo (Servidor 2)
 http://38.188.186.47:4000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-id="tcc-DSportsHD.uy" tvg-name="tcc-DSportsHD.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Fútbol",DSports Mariozap (Servidor 1)
+#EXTINF:-1 tvg-id="tcc-DSportsHD.uy" tvg-name="tcc-DSportsHD.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Fútbol",DSports Mariozap 
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports (Servidor 2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports mega
+http://179.63.6.216:8000/play/a01b
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports 2 mega
+http://179.63.6.216:8000/play/a01a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports+ mega
+http://179.63.6.216:8000/play/a01c
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports
 http://181.66.249.246:8000/play/a0km/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports 2
