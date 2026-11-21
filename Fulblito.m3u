@@ -152,6 +152,24 @@ http://99.envivosenhd.beer/espndeportes/mono.m3u8?token=d904ded71fe400fcb9bf11b5
 #EXTVLCOPT:http-origin=https://streamxhd.st
 http://khala.futlivehd.com/espndeportes/index.m3u8?ip=190.87.165.244&token=48ff4a108ae343f487ed0ef862bca3273ffcdc29-39-1795068592-1795014592
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN HD mega CA
+http://181.78.49.179:8000/play/a07o
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 2 HD mega CA
+http://181.78.49.179:8000/play/a07p
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 3 HD mega CA
+http://181.78.49.179:8000/play/a07q
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 4 mega CA
+http://181.78.49.179:8000/play/a088
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 5 HD mega CA
+http://181.78.49.179:8000/play/a087
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 6 HD mega CA
+http://181.78.49.179:8000/play/a07r
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN HD CTRO
 http://167.249.23.102:8000/play/ESPN-HD/index.m3u8
 
