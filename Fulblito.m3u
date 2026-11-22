@@ -605,12 +605,9 @@ http://186.3.191.218:8000/play/a0vz
 http://186.3.191.218:8000/play/a0vz
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 24)
-http://38.129.17.34:8000/play/a097/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 25)
 http://190.97.183.101:8028/play/a0aj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 26)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 25)
 http://190.108.93.156:1234/play/a1ju/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 1)
