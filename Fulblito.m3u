@@ -592,14 +592,26 @@ http://187.245.231.226:8000/play/a0sl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 LaTV (Servidor 19)
 http://186.33.0.57:8000/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 ax SD (Servidor 20)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD ax (Servidor 20)
 http://177.53.153.21:8000/play/a13p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 al SD (Servidor 21)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD al (Servidor 21)
 http://45.182.22.53:8000/play/a0af/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 mega SD (Servidor 22)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 22)
 http://186.3.191.218:8000/play/a0vz
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 23)
+http://186.3.191.218:8000/play/a0vz
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 24)
+http://38.129.17.34:8000/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 25)
+http://190.97.183.101:8028/play/a0aj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfWmYmX/Canal-4-TCS.png" group-title="TCS",Canal 4 SD mega (Servidor 26)
+http://190.108.93.156:1234/play/a1ju/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wchXLHG/Canal-6-1080x1080-1.jpg" group-title="TCS",Canal 6 (Servidor 1)
 http://167.249.23.102:8000/play/Canal6-ESA/index.m3u8
