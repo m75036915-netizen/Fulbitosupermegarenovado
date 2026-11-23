@@ -1,4 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkhcW11Y/FB-IMG-1795464060082.jpg" group-title="Radios" radio="true",Radio Bautista
 https://s2.radio.co/s3a7dc3d82/listen
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3BbsmRn/FB-IMG-1795464444978.jpg" group-title="Radios" radio="true",Radio Verdad
+https://cloudstream2036.conectarhosting.com/8168/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF9XYpv3/FB-IMG-1795464732068.jpg" group-title="Radios" radio="true",Radio Josué
+https://n0a.radiojar.com/02cfp84bvzuvv.m4a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCbWn0Wd/FB-IMG-1795464956549.jpg" group-title="Radios" radio="true",Radio Progreso
+http://www.streamingcp.com:2000/stream/radioprogreso/;
