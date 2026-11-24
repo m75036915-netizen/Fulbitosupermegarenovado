@@ -184,7 +184,7 @@ http://201.218.140.30:9000/play/a0be
 http://201.218.140.30:9000/play/a0c8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN HD mega CTOA
-http://190.97.183.101:8028/play/a0pt/index.m3u8
+http://190.97.183.101:8028/play/a0px/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 2 HD mega CTOA
 http://190.97.183.101:8028/play/a0pp/index.m3u8
@@ -193,13 +193,13 @@ http://190.97.183.101:8028/play/a0pp/index.m3u8
 http://190.97.183.101:8028/play/a0q5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 4 HD mega CTOA
-http://190.97.183.101:8028/play/a0ps/index.m3u8
+http://190.97.183.101:8028/play/a0pt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 5 HD mega CTOA
-http://190.97.183.101:8028/play/a0pr/index.m3u8
+http://190.97.183.101:8028/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 6 HD mega CTOA
-http://190.97.183.101:8028/play/a0px/index.m3u8
+http://190.97.183.101:8028/play/a0pr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN HD CTRO
 http://167.249.23.102:8000/play/ESPN-HD/index.m3u8
