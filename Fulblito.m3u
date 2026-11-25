@@ -189,6 +189,30 @@ http://181.65.191.173:8069/play/a09t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN 7 HD mega Chile
 http://181.65.191.173:8069/play/a0b6
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN Premium HD mega Perú
+http://200.215.249.76:8000/play/a01f
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN HD mega Perú
+http://200.215.249.76:8000/play/a088
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 2 HD mega Perú
+http://200.215.249.76:8000/play/a015
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 3 HD mega Perú
+http://200.215.249.76:8000/play/a026
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 4 HD mega Perú
+http://200.215.249.76:8000/play/a00u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 5 HD mega Perú
+http://200.215.249.76:8000/play/a07x
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 5 HD mega Perú
+http://200.215.249.76:8000/play/a01y
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 7 HD mega Perú
+http://200.215.249.76:8000/play/a01z
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN HD mega CA
 http://181.78.49.179:8000/play/a07o
 
