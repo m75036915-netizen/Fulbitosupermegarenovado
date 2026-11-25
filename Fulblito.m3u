@@ -147,6 +147,24 @@ http://201.240.104.137:8000/play/dtv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4B37cP/IMG-20261024-WA0017.jpg" group-title="Fútbol", DSports +
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN HD mega Centroamérica
+http://181.65.191.173:8069/play/a04w
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 2 HD mega Centroamérica
+http://181.65.191.173:8069/play/a04x
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 3 HD mega Centroamérica
+http://181.65.191.173:8069/play/a04y
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 4 HD mega Centroamérica
+http://181.65.191.173:8069/play/a051
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 5 HD mega Centroamérica
+http://181.65.191.173:8069/play/a050
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 6 HD mega Centroamérica
+http://181.65.191.173:8069/play/a04z
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN PREMIUM HD Chile
 http://181.65.191.173:8069/play/a0aa
 
