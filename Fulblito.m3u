@@ -168,7 +168,10 @@ http://181.78.49.179:8000/play/a07r
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN PREMIUM HD mega SUR
 http://201.218.140.30:9000/play/a0dr
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN HD mega SUR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN HD Chi mega SUR
+http://201.218.140.30:9000/play/a07l
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN HD Col mega SUR
 http://201.218.140.30:9000/play/a09h
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN 2 HD mega SUR
