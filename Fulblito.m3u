@@ -169,6 +169,9 @@ http://181.65.191.173:8069/play/a04z
 http://181.65.191.173:8069/play/a0aa
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN HD mega Chile
+http://181.65.191.173:8069/play/a0fq
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN HD mega Colombia
 http://181.65.191.173:8069/play/a0g7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN 2 HD mega Chile
