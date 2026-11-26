@@ -201,6 +201,9 @@ http://200.215.249.76:8000/play/a088
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 2 HD mega Perú
 http://200.215.249.76:8000/play/a015
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 2 HD mega chile
+http://200.215.249.76:8000/play/a01d
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN 3 HD mega Perú
 http://200.215.249.76:8000/play/a026
 
