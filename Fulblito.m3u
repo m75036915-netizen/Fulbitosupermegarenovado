@@ -579,6 +579,9 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD_LATAMfg127/FoxSports3/playlist.m3u8
 #http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 #http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZX5ZfRB/WA-1795820709220.jpg" group-title="Fútbol",TUDN USA
+http://45.192.3.47:8000/play/a0ft/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo 
 http://167.249.23.102:8000/play/a0ik/index.m3u8
 
