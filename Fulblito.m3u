@@ -363,21 +363,6 @@ http://190.97.183.101:8028/play/a11v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2k1HYVV/WA-1794447519675.jpg" group-title="Fútbol", ESPN 7 HD mega SURA
 http://190.97.183.101:8028/play/a13p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN Titan CA
-http://38.224.231.176:8000/play/a0ci/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 2 Titan CA
-http://38.224.231.176:8000/play/a0cj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 3 Titan CA
-http://38.224.231.176:8000/play/a0br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 4 Titan CA
-http://38.224.231.176:8000/play/a0bs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50MxPCnw/IMG-20261016-WA0032.jpg" group-title="Fútbol", ESPN 5 Titan CA
-http://38.224.231.176:8000/play/a0dj/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZLg5PdS/IMG-20261016-WA0031(1).jpg" group-title="Fútbol", ESPN PREMIUM HD Titan SA 
 http://38.224.231.176:8000/play/a035/index.m3u8
 
@@ -579,7 +564,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD_LATAMfg127/FoxSports3/playlist.m3u8
 #http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 #http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZX5ZfRB/WA-1795820709220.jpg" group-title="Fútbol",TUDN USA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CK5tLxJf/WA-1795824886318.jpg" group-title="Fútbol",TUDN USA
 http://45.192.3.47:8000/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM397WCY/IMG-20261014-WA0009.jpg" group-title="Fútbol", Telemundo 
